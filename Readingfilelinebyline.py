@@ -35,4 +35,3 @@ figure = plot.get_figure()
 figure.savefig("XMM_solar_array_power_over_mission_lifetime.png")
 
 
-          
